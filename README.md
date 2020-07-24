@@ -6,4 +6,10 @@ The files are all in [files/](files/), and an informal listing w/ metadata is at
 
 Because this repo has Github Pages enabled, the files should be publicly accessible via URL like so:
 
-https://dannguyen.github.io/files/FILE_NAME.XYZ
+https://dannguyen.github.io/filestash/files/FILE_NAME.XYZ
+
+Or, alternatively:
+
+https://github.com/dannguyen/filestash/raw/master/files/FILE_NAME.XYZ
+
+
